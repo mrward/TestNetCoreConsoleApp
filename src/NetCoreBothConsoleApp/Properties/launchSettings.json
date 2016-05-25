@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "NetCoreBothConsoleApp": {
+      "commandName": "Project"
+    },
+    "FooBarProfile": {
+      "commandName": "Project"
+    }
+  }
+}
